@@ -161,7 +161,7 @@ The pipeline is designed to be scalable, efficient, and easy to use. It uses the
 
 ## Project Folder Structure
 
-rag-pipeline/
+PDF-RAG-Pipeline/
 │
 ├── Dataset/
 │   ├── book.pdf                  # Textbook PDF
