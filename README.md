@@ -53,7 +53,7 @@ The pipeline is designed to be scalable, efficient, and easy to use. It uses the
 
 1. Clone the repository:
    
-   git clone https://github.com/raslen10/rag-pipeline.git
+   git clone https://github.com/raslen10/PDF-RAG-Pipeline.git
    cd rag-pipeline
 
 2. Install the required libraries:
