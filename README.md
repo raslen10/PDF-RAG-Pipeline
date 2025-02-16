@@ -12,11 +12,7 @@ This project implements a Retrieval-Augmented Generation (RAG) pipeline to answe
 5. [Set Up Pinecone and Prepare Your Dataset](#set-up-pinecone-and-prepare-your-dataset)
 6. [Usage](#usage)
 7. [Pipeline Workflow](#pipeline-workflow)
-8. [Evaluation Criteria](#evaluation-criteria)
-9. [File Structure](#file-structure)
-10. [Contributing](#contributing)
-11. [License](#license)
-12. [Contact](#contact)
+
 
 ---
 
@@ -159,15 +155,3 @@ The pipeline is designed to be scalable, efficient, and easy to use. It uses the
 
    Process all queries in batch mode for efficiency.
 
-## Project Folder Structure
-
-PDF-RAG-Pipeline/
-│
-├── Dataset/
-│   ├── book.pdf                  # Textbook PDF
-│   └── queries.json              # Queries in JSON format
-│
-├── rag_pipeline.py               # Main script
-├── Submission/
-│   ├── submission.csv            # Output file with answers
-└── README.md                     # Documentation
