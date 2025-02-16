@@ -86,6 +86,11 @@ The pipeline is designed to be scalable, efficient, and easy to use. It uses the
 
 ## Dataset Preparation
 
+You can download the dataset from the following link:
+ https://www.kaggle.com/competitions/casml-generative-ai-hackathon/data
+- **Textbook PDF**: [Download book.pdf]
+- **Queries JSON File**: [Download queries.json]
+
 1. Textbook PDF:
 
    Place your textbook PDF file (e.g., book.pdf) in the Dataset folder.
